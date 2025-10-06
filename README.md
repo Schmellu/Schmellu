@@ -25,10 +25,9 @@ currently_learning:
     "Leveling up frontend skills",
     "Deepening Spring Boot knowledge",
     "LeetCode problem solving",
-    "Exploring Docker & Kubernetes",
   ]
 
-goals_2024: 
+goals_2025: 
   [
     "Build multiple side projects",
     "Collaborate on open-source or student-friendly projects",
