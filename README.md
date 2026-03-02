@@ -7,31 +7,31 @@ name: Schmellu
 located_in: Germany
 education:
   [
-    "Currently studying Business Informatics",
-    "Working in IT Department (Backend & Frontend)",
+    "B.Sc. Business Informatics (in progress)",
+    "Working in IT - Backend & DevOps"
   ]
 
 fields_of_interests:
   [
-    "Backend Development (Java / Spring Boot)",
-    "Frontend Development",
-    "DevOps",
-    "Software Engineering",
-    "Exploring New Tech Stacks",
+    "Backend Engineering (Java, Spring Boot)",
+    "Modern Frontend Development",
+    "DevOps & Cloud Infrastructure",
+    "Evaluating and exploring new tech stacks"
   ]
   
 currently_learning: 
   [
-    "Leveling up frontend skills",
-    "Deepening Spring Boot knowledge",
-    "LeetCode problem solving",
+    "Leveling up frontend skills with Angular and modern Frameworks",
+    "Deep dive into Spring Boot & backend architecture",
+    "LeetCode problem solving"
   ]
 
-goals_2025: 
+goals_2026: 
   [
     "Build multiple side projects",
-    "Collaborate on open-source or student-friendly projects",
-    "Improve problem-solving with coding challenges",
+    "Improve problem-solving through coding challenges",
+    "Start game development & game design",
+    "Deepen knowledge in cloud platforms (AWS) & distributed systems"
   ]
 ```
 
